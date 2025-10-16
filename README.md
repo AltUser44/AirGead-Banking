@@ -67,6 +67,7 @@ Add tests where applicable and ensure the project builds
 Open a PR with a clear description
 
 **License**
+
 Owner AltUser44
 No license included. Add a LICENSE file (e.g., MIT) if you want to make one explicit.
 
