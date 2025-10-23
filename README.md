@@ -7,6 +7,7 @@ It calculates monthly-compounded interest and prints two yearly reports (one wit
 <img width="860" height="572" alt="Screenshot 2025-10-15 205130" src="https://github.com/user-attachments/assets/fd86f6b7-0d5f-4d27-b403-c76c64a5e1f1" />
 
 
+
 **Features**
 
 - Interactive console prompts for:
